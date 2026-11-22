@@ -35,18 +35,12 @@ AG-1 是一台**碟形**（非飞机造型）的负质量升力体概念设计�
 
 | | |
 |---|---|
-| ![](assets/images/01-million-parts-hero.webp)<br><sub>百万零件整体（1,013,156 件）</sub> |
-| ![](assets/images/02-skin-rivets-macro.webp)<br><sub>蒙皮铆钉微距</sub> |
-| ![](assets/images/03-exterior-hero.webp)<br><sub>UFO 外形与三节鱼竿式起落架</sub> |
-| ![](assets/images/04-cutaway.webp)<br><sub>半剖视图</sub> |
-| ![](assets/images/05-internal-perspective.webp)<br><sub>内部透视图</sub> |
-| ![](assets/images/06-equipment-deck.webp)<br><sub>设备层详解</sub> |
-| ![](assets/images/07-pcb-macro.webp)<br><sub>PCB 焊盘与过孔微距</sub> |
-| ![](assets/images/08-gear-detail.webp)<br><sub>起落架真实件特写</sub> |
-| ![](assets/images/09-viewer-electrical.webp)<br><sub>交互页电气视图</sub> |
-| ![](assets/images/10-sim-resonant.webp)<br><sub>谐振逆变器仿真波形</sub> |
-| ![](assets/images/11-sim-cw.webp)<br><sub>CW 倍压逐级电压</sub> |
-| ![](assets/images/12-sim-loss.webp)<br><sub>损耗与效率</sub> |
+| ![](assets/images/01-million-parts-hero.webp)<br><sub>百万零件整体（1,013,156 件）</sub> | ![](assets/images/02-skin-rivets-macro.webp)<br><sub>蒙皮铆钉微距</sub> |
+| ![](assets/images/03-exterior-hero.webp)<br><sub>UFO 外形与三节鱼竿式起落架</sub> | ![](assets/images/04-cutaway.webp)<br><sub>半剖视图</sub> |
+| ![](assets/images/05-internal-perspective.webp)<br><sub>内部透视图</sub> | ![](assets/images/06-equipment-deck.webp)<br><sub>设备层详解</sub> |
+| ![](assets/images/07-pcb-macro.webp)<br><sub>PCB 焊盘与过孔微距</sub> | ![](assets/images/08-gear-detail.webp)<br><sub>起落架真实件特写</sub> |
+| ![](assets/images/09-viewer-electrical.webp)<br><sub>交互页电气视图</sub> | ![](assets/images/10-sim-resonant.webp)<br><sub>谐振逆变器仿真波形</sub> |
+| ![](assets/images/11-sim-cw.webp)<br><sub>CW 倍压逐级电压</sub> | ![](assets/images/12-sim-loss.webp)<br><sub>损耗与效率</sub> |
 
 ## 技术栈
 

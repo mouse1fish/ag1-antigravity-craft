@@ -1,8 +1,8 @@
 # 生成物
 blender/out/*
+!blender/out/.gitkeep
 electrical/sim/
 /images/
-!blender/out/.gitkeep
 *.blend1
 *.blend2
 
