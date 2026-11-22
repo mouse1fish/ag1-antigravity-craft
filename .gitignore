@@ -1,0 +1,29 @@
+# 生成物
+blender/out/*
+electrical/sim/
+images/
+!blender/out/.gitkeep
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 构建中间件
+*.o
+*.obj
+collide_check.exe
+_bt_test.exe
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大文件（如需分发请用 Releases）
+*.glb
+*.stl
+*.bin
